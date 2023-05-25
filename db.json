@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "username": "Abhi",
+      "email": "abhi@gmail.com",
+      "password": "Abhi",
+      "iseDoctor": true,
+      "id": 1
+    },
+    {
+      "username": "kundan@gmail.com",
+      "email": "kundan@gmail.com",
+      "password": "Kundan",
+      "isDoctor": false,
+      "id": 3
+    },
+    {
+      "username": "abhi",
+      "email": "abhi@gmail.com",
+      "password": "Ab",
+      "isDoctor": false,
+      "id": 4
+    },
+    {
+      "username": "abhi",
+      "email": "abhi@gmail.co",
+      "password": "Ab",
+      "isDoctor": true,
+      "id": 5
+    }
+  ],
+  "doctors": [],
+  "appointments": []
+}
